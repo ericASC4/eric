@@ -1,0 +1,35 @@
+body{
+    background-image: url("./assets/topper.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.singleBurger{
+    border: solid 2px red;
+    background-color: greenyellow;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px;
+    padding: 10px;
+}
+
+.mainContent{
+    border: solid 2px white;
+}
+
+#top{
+    color: gold;
+
+}
+
+img{
+    width: 25%;
+    vertical-align: middle;
+}
+
+p{
+    width: 74%verticle-align: middle;
+    display: inline-block;
+}

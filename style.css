@@ -1,0 +1,27 @@
+body{
+    background-image: url("./assests/topper.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+mainContent{
+    border: solid 2px white;
+}
+
+
+img{
+    width: 25%;
+    vertical-align: middle;
+}
+
+p{
+    width: 74%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+
